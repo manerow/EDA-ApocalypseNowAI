@@ -11,7 +11,7 @@ build-essential
 ### Running the project and simulatig the game
 The project comes with a makefile. In order to compile and simulate the game, do the following steps:
 ```
-Unpack or clone the project
+Unpack or clone the project and navigate to the game Directory.
 $ tar -zxvf Game.tar.gz
 $ make all
 $ ./Game AIOakSaver Demo Demo Demo -s 30 -i default.cnf -o default.out
